@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Basit Barkod Okuyucu</string>
+    <string name="gitbtn">Git</string>
+    <string name="okbtn">Tamam</string>
+    <string name="kopyala">Kopyala</string>
+    <string name="kameraErisimOk">Kamera erişim izni verildi</string>
+    <string name="kameraErisimRet">Kamera erişim izni reddedildi</string>
+    <string name="izinGerekli">Gerekli izinleri vermelisiniz</string>
+    <string name="iptalBtn">İptal</string>
+    <string name="barkodTipi">Barkod Tipi</string>
+
+</resources>
